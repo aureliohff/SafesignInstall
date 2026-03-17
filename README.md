@@ -103,4 +103,4 @@ Se publicar modificações, citar a origem ajuda outras pessoas a rastrear melho
 
 ## 👤 Autor
 
-- **Aurelio** – [`@aureliohff`]([https://github.com/aureliohff](https://github.com/aureliohff), com auxílio da IA _Claude 4.6 Sonnet_.
+- - **Aurelio** – [`@aureliohff`](https://github.com/aureliohff), com auxílio da IA _Claude 4.6 Sonnet_.
